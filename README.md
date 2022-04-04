@@ -1,6 +1,7 @@
 # Vue-magic
 
 Mon premier TP avec le framework Vue
+Fonctionne avec axios et donc [APIHero](https://gitlab.com/Timomoulin/APIHero) de mon fromateur
 
 ## Recommended IDE Setup
 
